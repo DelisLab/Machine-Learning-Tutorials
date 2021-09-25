@@ -1,3 +1,3 @@
 # Machine-Learning-Tutorials
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DelisLab/Machine-Learning-Tutorials/main/tree)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DelisLab/Machine-Learning-Tutorials/main)
